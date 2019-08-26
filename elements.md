@@ -2,13 +2,12 @@
 layout: post
 title: GSoC'19
 description: What, Why and How?
-image: assets/images/gsoc_logo.png
 nav-menu: true
 ---
 
 ## What?
 
-Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school.
+<p><span class="image left"><img src="assets/images/gsoc_logo.png" alt="" />Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school.</p>
 
 Source: [GSoC Website](https://summerofcode.withgoogle.com/ )
 
