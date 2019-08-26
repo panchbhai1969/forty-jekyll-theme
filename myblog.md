@@ -3,6 +3,7 @@ layout: post
 title: GSoC'19
 description: What, Why and How?
 image: assets/images/gsoc_logo.png
+nav-menu: true
 ---
 
 ## What?
