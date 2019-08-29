@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: GSoC'19
 description: What, Why and How?
-image: assets/images/gsoc-logo.png
-nav-menu: true
+image: assets/images/gsoc-logo.png 
 ---
 
 ## What?
