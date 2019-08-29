@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Psychology of Memory
 description: Is it dark enough?
-image: assets/images/gsoc_logo.png 
+image: assets/images/psych_one.png
 ---
 
 ![Header](assets/images/psych_two.png)
