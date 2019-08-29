@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: GSoC'19
 description: What, Why and How?
-image: assets/images/gsoc_logo.png 
+image: assets/images/gsoc-logo.png 
 ---
 
 ## What?
